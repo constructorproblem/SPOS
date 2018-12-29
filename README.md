@@ -7,4 +7,8 @@ simulation of those algorithms by making a fun android application.
 
 Steps:
 1. Install the APK file.
-2. Using the 
+2. Open the application
+3. Enter the number of processes
+4. Select the algorithm you want to use for the simulation purposes such as Round-Robin or FCFS (First come first serve)
+in order to observe the sceduling
+5. Enjoy the simulations and the animations. 
